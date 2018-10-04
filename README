@@ -1,0 +1,12 @@
+Julia Valencia  22julianv@gmail.com
+C++
+
+– How to execute your program.
+	make
+	./cipher CIPHERTYPE KEY ENC/DEC INPUTFILE OUTPUTFILE
+
+– Whether you implemented the extra credit.
+	no
+
+– Anything special about your submission that we should take note of.
+	no
